@@ -1,2 +1,2 @@
 # word-news
-news
+newsgit
