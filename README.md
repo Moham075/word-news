@@ -1,1 +1,2 @@
 # word-news
+news
