@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/word-news/static/css/main.deb97433.chunk.css",
+    "main.js": "/word-news/static/js/main.a0abe264.chunk.js",
+    "main.js.map": "/word-news/static/js/main.a0abe264.chunk.js.map",
+    "runtime-main.js": "/word-news/static/js/runtime-main.c3cb8390.js",
+    "runtime-main.js.map": "/word-news/static/js/runtime-main.c3cb8390.js.map",
+    "static/js/2.95d3447e.chunk.js": "/word-news/static/js/2.95d3447e.chunk.js",
+    "static/js/2.95d3447e.chunk.js.map": "/word-news/static/js/2.95d3447e.chunk.js.map",
+    "index.html": "/word-news/index.html",
+    "static/css/main.deb97433.chunk.css.map": "/word-news/static/css/main.deb97433.chunk.css.map",
+    "static/js/2.95d3447e.chunk.js.LICENSE.txt": "/word-news/static/js/2.95d3447e.chunk.js.LICENSE.txt",
+    "static/media/sidep.0dfae3c7.png": "/word-news/static/media/sidep.0dfae3c7.png",
+    "static/media/sides.9aae7682.png": "/word-news/static/media/sides.9aae7682.png",
+    "static/media/topbaner.adccf554.png": "/word-news/static/media/topbaner.adccf554.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3cb8390.js",
+    "static/js/2.95d3447e.chunk.js",
+    "static/css/main.deb97433.chunk.css",
+    "static/js/main.a0abe264.chunk.js"
+  ]
+}
